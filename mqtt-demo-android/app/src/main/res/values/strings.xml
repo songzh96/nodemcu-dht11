@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MQTT</string>
+    <string name="title_activity_main6">实时温度数据</string>
+    <string name="title_home">温度</string>
+    <string name="title_dashboard">湿度</string>
+    <string name="title_activity_main7">实时湿度数据</string>
+    <string name="title_activity_main8">历史数据</string>
+</resources>
